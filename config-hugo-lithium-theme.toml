@@ -1,0 +1,26 @@
+baseurl = "https://wadahana.github.io"
+languageCode = "en-us"
+title = "wadahana's new blog"
+theme = "hugo-lithium-theme"
+googleAnalytics = ""
+disqusShortname = ""
+
+[permalinks]
+    post = "/:year/:month/:day/:title/"
+    page = "/:title/"
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+[[menu.main]]
+    name = "GitHub"
+    url = "http://github.com/wadahana"
+
+[params]
+    description = "x"
+
+    [params.logo]
+    url = "logo.png"
+    width = 50
+    height = 50
+    alt = "Logo"

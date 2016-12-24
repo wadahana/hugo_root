@@ -1,0 +1,31 @@
+baseurl = "http://wadahana.github.io/"
+languageCode = "en-us"
+title = "wadahana's github pages"
+theme= "hugo-theme-geppaku"
+tags = ["blog", "personal"]
+features = ["blog"]
+
+[author]
+    # If you want to display author information set these
+    # This is Optional values
+    name = "eric woo"
+
+    # Please set account ids
+    # This is Optional values
+
+    linkedin = "wadahana"
+    github   = "wadahana"
+
+
+
+[params]
+    [params.sharebutton]
+        # If you want to display share buttons set these
+        # This is Optional values
+        # twitter  = true
+        # facebook = true
+        # hatena   = true # hatena is Japanese social media
+        # google   = true
+        # pocket   = true
+        # Please set id when you want to display facebook
+        # facebookAppId = "your app id"

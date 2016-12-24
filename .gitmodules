@@ -1,3 +1,6 @@
 [submodule "themes/hugo-lithium-theme"]
 	path = themes/hugo-lithium-theme
 	url = https://github.com/jrutheiser/hugo-lithium-theme
+[submodule "themes/hugo-theme-geppaku"]
+	path = themes/hugo-theme-geppaku
+	url = https://github.com/wadahana/hugo-theme-geppaku
