@@ -1,4 +1,4 @@
-baseurl = "http://wadahana.github.io/"
+baseurl = "https://wadahana.github.io/"
 languageCode = "en-us"
 title = "wadahana's github pages"
 theme= "hugo-theme-geppaku"
@@ -13,7 +13,7 @@ features = ["blog"]
     # Please set account ids
     # This is Optional values
 
-    linkedin = "wadahana"
+    linkedin = "eric-woo-97ba8481"
     github   = "wadahana"
 
 
